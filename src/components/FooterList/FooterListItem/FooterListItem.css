@@ -1,0 +1,13 @@
+.footer__list_item {
+   margin-bottom: -10px;
+}
+
+.footer__list_item a {
+    text-decoration: none;
+    color: #404040;
+    }
+
+.footer__list_item a:hover {
+    color: #037EBC;
+    transition: linear;
+}

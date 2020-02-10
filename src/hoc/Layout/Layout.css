@@ -1,0 +1,13 @@
+.Layout {
+    -webkit-transition-property: opacity;
+    transition-property: opacity;
+    -webkit-transition-duration: 200ms;
+    transition-duration: 200ms;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    color: rgb(33, 37, 41);
+}
+
+.Layout main {
+    box-sizing: border-box;
+}

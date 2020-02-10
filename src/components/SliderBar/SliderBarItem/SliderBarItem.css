@@ -1,0 +1,10 @@
+.slider_bar_item {
+    
+    border-style: none;
+    
+    width: 20%;
+    top: 0;
+    cursor: pointer;
+    height: 100%;
+    
+}

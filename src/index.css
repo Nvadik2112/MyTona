@@ -1,0 +1,19 @@
+body {
+  font-size: 1.6rem;
+  color: rgb(33, 37, 41);
+  background: #FBFBFB;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: 'pragmatica', 'Open Sans', 'EB Garamond', sans-serif;
+  font-weight: 400;
+  box-sizing: border-box;
+  margin: 0px;
+  
+}
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+

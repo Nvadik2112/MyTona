@@ -1,0 +1,6 @@
+.social__links {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+

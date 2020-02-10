@@ -1,0 +1,22 @@
+.category__menu_item{
+    width: 25%;
+    min-width: 250px;
+    padding: 20px;
+    transition: all 200ms ease-in;
+    -webkit-transition: all 200ms ease-in;
+    -moz-transition: all 200ms ease-in;
+    -ms-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+}
+
+.category__menu_item:hover {
+    cursor: pointer;
+    background: #FBFBFB;
+    box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+}
+
+.category__menu_item_title {
+    font-size: 20px;
+    color: #037EBC;
+}

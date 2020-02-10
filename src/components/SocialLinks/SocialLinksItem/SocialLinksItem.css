@@ -1,0 +1,8 @@
+.social__links__item {
+    width: 70%;
+    transition: 0.2s;
+}
+
+.social__links__item:hover {
+    transform: scale(1.2)
+}

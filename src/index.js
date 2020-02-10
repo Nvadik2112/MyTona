@@ -1,13 +1,8 @@
-'use strict';
- 
-import teleProgramDate from './modules/teleProgramDate';
-import teleProgramVideo from './modules/teleProgramVideo';
-import headerSlider from './modules/headerSlider';
-import scroll from './modules/scroll';
-import arrowScroll from './modules/arrowScroll';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import registerServiceWorker from './registerServiceWorker';
 
-teleProgramDate();
-teleProgramVideo();
-headerSlider();
-scroll();
-arrowScroll();
+ReactDOM.render(<App />, document.getElementById('root'));
+registerServiceWorker();

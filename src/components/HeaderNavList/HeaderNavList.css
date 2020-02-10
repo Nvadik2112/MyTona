@@ -1,0 +1,10 @@
+.header__nav_list {    
+    display: flex;
+    position: relative;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    align-items: center;
+    list-style: none;   
+}
